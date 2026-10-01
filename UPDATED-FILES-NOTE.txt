@@ -1,0 +1,37 @@
+ASAPLAB PH CashFlow - Updated project
+
+This package contains the updated versions of the configuration files originally uploaded:
+- next-env.d.ts
+- package.json
+- package-lock.json
+- postcss.config.js
+- tailwind.config.ts
+- tsconfig.json
+- next.config.js
+
+It also contains the application files needed for the requested features:
+- app/page.tsx
+- app/layout.tsx
+- app/globals.css
+- lib/store.ts
+- public/manifest.webmanifest
+- public/sw.js
+- public/icon.svg
+- .github/workflows/deploy.yml
+- README.md
+
+Main implemented features:
+- ASAPLAB PH splash screen
+- Local login/logout
+- Poppins font
+- Professional blue/white UI with blue-to-dark-blue gradients
+- Transaction, Rates, and Finance tabs
+- Cash In / Cash Out and automatic fee calculation
+- Manual fee override
+- Custom rate ranges
+- Transaction history and date filters
+- Camera and gallery receipt attachment support
+- Capital, withdrawal, transfer, and account balances
+- Success/error popups with sound
+- Offline/local browser storage and IndexedDB receipts
+- GitHub Pages static deployment support
